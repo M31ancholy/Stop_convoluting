@@ -8,6 +8,7 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
+  base:'/Stop_convoluting/', // 自己添加的东西
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
