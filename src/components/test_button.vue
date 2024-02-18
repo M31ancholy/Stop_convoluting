@@ -17,6 +17,6 @@ function down_the_IQ(){
   background-color: #2cacc2; /* 新的背景颜色 */
   color: white; /* 新的字体颜色 */
   display: flex;
-  ;
+
 }
 </style>
